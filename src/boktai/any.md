@@ -350,7 +350,7 @@ The target rank for this dungeon is A. You can ignore all enemies in this dungeo
 
 ![](./assets/images/any_crumbling_mine_1.webp)
 
-## <span class="trap">Trap</span>
+### <span class="trap">Trap</span>
 
 Start by equipping the Double Battery and the Spear Frame, then kill the Mummies by bunching them up against a wall:
 
@@ -379,7 +379,16 @@ After clearing the trap (+80 EXP), open the reward chests for 2 ![icon][banana] 
 
 ## Firetop Mountain
 
-TODO
+| Resource           | Start with | Get   | Consume | End with
+|--------------------|------------|-------|---------|----------
+| Sol Lens EXP       | 438        | +300  |         | 738
+| Banana             | 2          | +3    | -4      | 1
+| Speed Nut          | 10         | +3    | -10     | 3
+| Bomb               | 2          | +4    |         | 6
+| Rising Sun Grenade | 0          |       |         |
+| Flash Grenade      | 0          | +2    |         | 2
+
+![](./assets/images/any_firetop_1.webp)
 
 ## Permafrost
 
