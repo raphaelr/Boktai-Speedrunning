@@ -344,7 +344,7 @@ The target rank for this dungeon is A. You can ignore all enemies in this dungeo
 
 ![](./assets/images/any_crumbling_mine_1.webp)
 
-## <span class="trap">Trap</span>
+### <span class="trap">Trap</span>
 
 Start by equipping the Double Battery and the Spear Frame, then kill the Mummies by bunching them up against a wall:
 
@@ -368,9 +368,23 @@ After clearing the trap (+80 EXP), open the reward chests for 2 ![icon][banana] 
 
 ![](./assets/images/any_crumbling_mine_6.webp)
 
-## Firetop Mountain
+## Firetop Mountain &nbsp; ![](./assets/images/0.webp)
 
-TODO
+| Resource           | Start with | Get   | Consume | End with
+|--------------------|------------|-------|---------|----------
+| Sol Lens EXP       | 438        | +300  |         | 738
+| Banana             | 2          | +3    | -4      | 1
+| Speed Nut          | 10         | +3    | -10     | 3
+| Bomb               | 2          | +4    |         | 6
+| Rising Sun Grenade | 0          | +2    |         | 2
+
+There is no required rank in this dungeon. You don't have to kill any enemies either. Go inside and upstairs. After grabbing the hidden ![icon][speed_nut] Speed Nut, leave to the east, go upstairs again and push the box down. Afterwards, follow the corridor until you reach the first proper box puzzle. Open the inventory menu, move the cursor to the Banana, sort the inventroy, and use a ![icon][banana] Banana for this puzzle. Keep the Banana effect active afterwards (do not use a Speed Nut):
+
+![](./assets/images/any_firetop_1.webp)
+
+Follow the path, push the box from earlier into the hole, and use a ![icon][speed_nut] afterwards:
+
+![](./assets/images/any_firetop_2.webp)
 
 ## Permafrost
 
